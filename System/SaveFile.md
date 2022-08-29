@@ -3,8 +3,8 @@
 Cult of the Lamb use `JSON` structure to save and load the save data,
 It's encrypted using the `AES` cryptographic algorithm,
 
-The can can load both encrypted and unencrypted file,
-If the file starts with "E" then the game will treat the file as Encrypted file.
+The system can load both encrypted and unencrypted file,
+If the file starts with "E" then the game will treat the file as encrypted file.
 
 Backup will be created everytime the game is saved, it have a limit for 10 backup per file.
 
