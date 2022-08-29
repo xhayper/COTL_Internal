@@ -2,4 +2,4 @@
 
 ## System
 
-- [Save System](/System/SaveFile)
+- [Save System]({% link System/SaveFile.md %})
