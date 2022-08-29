@@ -4,4 +4,4 @@ Information on [Cult of the Lamb](https://store.steampowered.com/app/1313140/Cul
 
 ## System
 
-- [Save System]({% link System/SaveFile.md %})
+- [Save System](/COTL_Internal/System/SaveFile)
