@@ -1,9 +1,3 @@
-<!--
-layout: page
-title: "Save File"
-permalink: /System/SaveFile
--->
-
 # Save File
 
 Cult of the Lamb use `JSON` structure to save and load the save data,
