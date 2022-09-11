@@ -1,6 +1,6 @@
 # Save File
 
-Cult of the Lamb use `JSON` structure to save and load the save data, it's encrypted using the `AES` cryptographic algorithm.
+Cult of the Lamb use `JSON` structure to save and load the save data, it's encrypted using the `AES CBC` cryptographic algorithm.
 
 The system can load both encrypted and unencrypted file,
 if the file starts with "E" then the game will treat the file as encrypted file.
